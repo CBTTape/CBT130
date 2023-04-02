@@ -1,0 +1,22 @@
+2023-04-02 22:06:34.353993 - Initialized conversion of CBT130
+2023-04-02 22:06:34.501274 - Received CBT.V504.FILE130.PDS from FILE130.XMI 
+2023-04-02 22:06:34.503672 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:06:34.505206 - Found $DSCLAIM.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/$DSCLAIM
+2023-04-02 22:06:34.506514 - Found $INDEX.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/$INDEX
+2023-04-02 22:06:34.508016 - Found @FILE130.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/@FILE130
+2023-04-02 22:06:34.509072 - Found BLGS11.jcl (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/BLGS11
+2023-04-02 22:06:34.510404 - Found CBT$.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CBT$
+2023-04-02 22:06:34.511512 - Found CBTAMS.jcl (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CBTAMS
+2023-04-02 22:06:34.512613 - Found CBTBLD.jcl (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CBTBLD
+2023-04-02 22:06:34.513882 - Found CBTOZD.jcl (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CBTOZD
+2023-04-02 22:06:34.515221 - Found CDF.jcl (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CDF
+2023-04-02 22:06:34.516538 - Found CDF$.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CDF$
+2023-04-02 22:06:34.517867 - Found CDFDATAB.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CDFDATAB
+2023-04-02 22:06:34.519065 - Found CDFHELP.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CDFHELP
+2023-04-02 22:06:34.520341 - Found CDF00.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/CDF00
+2023-04-02 22:06:34.521684 - Found IGC0023E.jcl (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/IGC0023E
+2023-04-02 22:06:34.522838 - Found INFOMGT.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/INFOMGT
+2023-04-02 22:06:34.523949 - Found INFOMGTP.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/INFOMGTP
+2023-04-02 22:06:34.525016 - Found IN00.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/IN00
+2023-04-02 22:06:34.526118 - Found ISR@PRIM.txt (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/ISR@PRIM
+2023-04-02 22:06:34.527252 - Found PSCANZAP.jcl (text/plain) in CBT.V504.FILE130.PDS, moved to PDS/PSCANZAP
