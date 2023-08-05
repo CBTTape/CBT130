@@ -1,0 +1,22 @@
+2023-08-06 01:16:52.786314 - Initialized conversion of CBT130
+2023-08-06 01:16:52.902205 - Received CBT.V505.FILE130.PDS from FILE130.XMI 
+2023-08-06 01:16:52.904301 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:16:52.905533 - Found $DSCLAIM.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/$DSCLAIM
+2023-08-06 01:16:52.906448 - Found $INDEX.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/$INDEX
+2023-08-06 01:16:52.907307 - Found @FILE130.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/@FILE130
+2023-08-06 01:16:52.908248 - Found BLGS11.jcl (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/BLGS11
+2023-08-06 01:16:52.909099 - Found CBT$.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CBT$
+2023-08-06 01:16:52.909969 - Found CBTAMS.jcl (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CBTAMS
+2023-08-06 01:16:52.911020 - Found CBTBLD.jcl (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CBTBLD
+2023-08-06 01:16:52.911926 - Found CBTOZD.jcl (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CBTOZD
+2023-08-06 01:16:52.912805 - Found CDF.jcl (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CDF
+2023-08-06 01:16:52.913672 - Found CDF$.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CDF$
+2023-08-06 01:16:52.914557 - Found CDFDATAB.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CDFDATAB
+2023-08-06 01:16:52.915398 - Found CDFHELP.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CDFHELP
+2023-08-06 01:16:52.916252 - Found CDF00.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/CDF00
+2023-08-06 01:16:52.917069 - Found IGC0023E.jcl (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/IGC0023E
+2023-08-06 01:16:52.918062 - Found INFOMGT.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/INFOMGT
+2023-08-06 01:16:52.918923 - Found INFOMGTP.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/INFOMGTP
+2023-08-06 01:16:52.919750 - Found IN00.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/IN00
+2023-08-06 01:16:52.920719 - Found ISR@PRIM.txt (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/ISR@PRIM
+2023-08-06 01:16:52.921581 - Found PSCANZAP.jcl (text/plain) in CBT.V505.FILE130.PDS, moved to PDS/PSCANZAP
